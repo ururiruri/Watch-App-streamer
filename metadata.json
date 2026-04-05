@@ -1,0 +1,5 @@
+{
+  "name": "StreamDeck Watch",
+  "description": "Professional smartwatch remote for OBS streamers with audio mixing, scene control, and panic mode.",
+  "requestFramePermissions": []
+}
